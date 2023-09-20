@@ -16,7 +16,7 @@ Once you have installed the required libraries, you can use the Image Converter 
 1. Clone the ImageConverter repository:
 
 ```bash
-git clone https://github.com/your-username/ImageConverter.git
+git clone https://github.com/ganlubin/ImageConverter.git
 cd ImageConverter
 ```
 
